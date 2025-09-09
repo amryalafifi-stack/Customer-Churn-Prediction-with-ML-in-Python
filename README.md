@@ -21,9 +21,10 @@ Provided below is a dashboard containing visuals of all data findings as well as
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** Data Structure & Initial Checks  
-- **Category 2:** Model Performance & Comparison  
-- **Category 3:** Final Assumptions & Recommendations
+**Categories**
+- Data Structure & Initial Checks
+-  Model Performance & Comparison
+-  Final Assumptions & Recommendations
   
 All data processing, analysis, and modeling were conducted using **Python**, including Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
